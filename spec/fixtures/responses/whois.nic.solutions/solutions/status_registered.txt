@@ -1,0 +1,58 @@
+Domain Name: hosting.solutions
+Registry Domain ID: d82e9da4775b462f92a8479bb4261673-DONUTS
+Registrar WHOIS Server: whois.comlaude.com
+Registrar URL: http://www.comlaude.com
+Updated Date: 2025-06-21T23:03:42Z
+Creation Date: 2015-06-21T16:00:03Z
+Registry Expiry Date: 2026-06-21T16:00:03Z
+Registrar: Nom-iq Ltd. dba COM LAUDE
+Registrar IANA ID: 470
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Domain Licenses Limited
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: 
+Registrant Postal Code: REDACTED
+Registrant Country: GB
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: ns1.markmonitor.com
+Name Server: ns2.markmonitor.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-07-29T02:47:36Z <<<
